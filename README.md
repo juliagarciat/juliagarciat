@@ -8,9 +8,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-Learning-BC8CFF?style=flat-square&labelColor=0D0618" />
-<img src="https://img.shields.io/badge/FOCUS-Development-8957E5?style=flat-square&labelColor=0D0618" />
-
 </div>
 
 ---
